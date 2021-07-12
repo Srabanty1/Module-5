@@ -1,0 +1,9 @@
+h1{
+    color:orange;
+}
+.My-favourite:hover{
+    width: 5.5%;
+    color:indianred;
+    font-size: 30px;
+    background-color: lawngreen;
+}
