@@ -43,3 +43,27 @@ body {
   h1::before{
       content:"❤️"
   }
+
+  .container{
+      background-color:lightcoral;
+  }
+  div{
+      height:100px;
+      width:100px;
+      background-color: lightgray;
+  }
+  #first{
+      background-color: orange;
+  }
+  #second{
+      background-color: lightseagreen;
+      position:static;
+      left:100px;
+      
+      
+  }
+     
+    
+  #third{
+      background-color: magenta;
+  }
