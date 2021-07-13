@@ -1,5 +1,5 @@
 h1{
-    color:orange;
+    color:orange !important;
 }
 h1::before{
     content: "Hello";
@@ -50,14 +50,14 @@ body {
   div{
       height:100px;
       width:100px;
-      background-color: lightgray;
+      background-color: olive;
   }
   #first{
       background-color: orange;
   }
   #second{
       background-color: lightseagreen;
-      position:static;
+      position:fixed;
       left:100px;
       
       
@@ -66,4 +66,12 @@ body {
     
   #third{
       background-color: magenta;
+  }
+
+  .My-favourite{
+      color: orangered;
+  }
+  #Most-favourite{
+      color:orchid;
+      font-size: 60px;
   }
